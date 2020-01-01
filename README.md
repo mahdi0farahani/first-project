@@ -1,2 +1,2 @@
 # first-project
-A repo just for test and learn git.
+A repository just for test and learn git.
